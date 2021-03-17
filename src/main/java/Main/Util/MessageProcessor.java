@@ -8,7 +8,6 @@ import java.util.List;
 import java.util.StringJoiner;
 import java.util.stream.Stream;
 
-//basically the thing I've been procrastinating on
 //this is supposed to process the message send by user
 //can be optimized and made smarter but idk how atm
 
