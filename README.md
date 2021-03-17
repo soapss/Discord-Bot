@@ -19,4 +19,4 @@ Below is a description of what it can do
    
 3. Admin Commands
    - these commends can: ban deafen, kick, give roles, mute, remove roles, unban, undeafen, and unmute users
-   - can also prune memebers in the server
+   - can also prune members in the server
