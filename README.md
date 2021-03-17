@@ -1,5 +1,7 @@
 # Discord-Bot
-This is a discord bot! Below is a description of what it can do
+This is a discord bot! 
+
+Below is a description of what it can do
 
 1. Music Functions
    ~ can display the songs left to play in the queue
